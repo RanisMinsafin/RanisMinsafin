@@ -8,7 +8,7 @@
 - 🏙️ Based in Kazan, Russia
 
 ## Education
-- **Programming school:** School 21
+- **Programming school:** School 21(École 42)
 - **University:** Kazan State Medical University
 
 ## Skills
