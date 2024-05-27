@@ -4,7 +4,7 @@
 ## About Me 
 - 📚 I'm currently a student at School 21
 - 💡 I'm passionate about learning Java
-- 🔍 I'm actively seeking opportunities for work or internships related to Java development
+- 🔍 I'm actively seeking opportunities for work related to Java development
 - 🏙️ Based in Kazan, Russia
 
 ## Education
