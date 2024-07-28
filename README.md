@@ -2,10 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## About Me 
-- 📚 I'm currently a student at School 21
-- 💡 I'm passionate about learning Java
-- 🔍 I'm actively seeking opportunities for work related to Java development
-- 🏙️ Based in Kazan, Russia
+- 🖥️ Java Backend Developer
+- 🏙️ Kazan, Russia
 
 ## Education
 - **Programming school:** School 21 (École 42)
