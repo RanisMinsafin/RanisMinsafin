@@ -3,8 +3,7 @@
 
 ## About Me 
 - 🖥️ Java Backend Developer
-- 🏙️ Kazan, Russia
-
+  
 ## Education
 - **Programming school:** School 21 (École 42)
 - **University:** Kazan State Medical University
